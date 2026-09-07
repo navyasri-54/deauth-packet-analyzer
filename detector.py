@@ -1,4 +1,3 @@
-```python
 import time
 from collections import defaultdict
 
@@ -97,4 +96,4 @@ class DeauthDetector:
     def clear(self):
         self.events.clear()
         self.alerts.clear()
-```
+
