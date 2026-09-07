@@ -689,5 +689,3 @@ elif page == "Packet Analysis":
         st.write(
             "**Subtype:**",
             packet["subtype"]
-        )
-```
