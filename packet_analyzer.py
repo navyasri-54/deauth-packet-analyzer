@@ -1,4 +1,3 @@
-```python
 from datetime import datetime
 
 
@@ -78,4 +77,4 @@ class PacketAnalyzer:
 
     def clear(self):
         self.packets.clear()
-```
+
